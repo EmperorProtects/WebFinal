@@ -38,6 +38,12 @@ express-app
    npm install
    ```
 
+4. Edit local variables
+   ```
+   MONGODB_URI
+   JWT_SECRET
+   ```
+
 ## Usage
 
 To start the application, run:
