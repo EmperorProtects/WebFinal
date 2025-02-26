@@ -42,14 +42,7 @@ express-app
 
 To start the application, run:
 ```
-node src/app.js
-```
-
-## Testing
-
-To run the tests, use:
-```
-npm test
+npm run start
 ```
 
 ## Contributing
